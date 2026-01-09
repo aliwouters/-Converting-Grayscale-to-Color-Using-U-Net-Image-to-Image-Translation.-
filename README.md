@@ -1,0 +1,1 @@
+This code implements a U-Net–based image-to-image translation model that takes grayscale images as input and predicts corresponding RGB color images. It preprocesses data, applies augmentation, and trains the network using supervised learning on paired images.
